@@ -1,5 +1,0 @@
-# Created at 2023-11-06T12:02:34.617
-Boot Manifest-JAR contains absolute paths in classpath 'D:\wadamiweb-privacy\wadamiweb-privacy\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
