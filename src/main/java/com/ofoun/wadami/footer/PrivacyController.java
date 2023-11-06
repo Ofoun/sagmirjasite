@@ -6,10 +6,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class PrivacyController {
 	
-	@GetMapping("/privacy")
-	public String showPrivacyForm() {
-		
-		return "/privacy";		
-	}
+//	@GetMapping("/privacy")
+//	public String showPrivacyForm() {
+//		
+//		return "/privacy";		
+//	}
 
 }
